@@ -1,6 +1,4 @@
 **Project Name:** Building a Rainfall Prediction Classifier
- 
-This project focuses on building a machine learning classifier to predict the likelihood of rainfall based on historical weather data. Accurate rainfall prediction is crucial for agriculture, water resource management, and disaster preparedness.
 
 **Project Overview:**
 
@@ -61,9 +59,13 @@ This project involves data exploration, preprocessing, feature engineering, mode
 
 - Deploy the model as a web-based rainfall prediction application.
 
-**Acknowledgements:** This project is part of the IBM Data Science Professional Certificate program. Data sourced from public weather repositories.
+**Acknowledgements:** 
 
-**License:** This project is licensed under the MIT License.
+This project is part of the IBM Data Science Professional Certificate program. Data sourced from public weather repositories.
+
+**License:** 
+
+This project is licensed under the MIT License.
 
 **Contributions and feedback are welcome!**
 
