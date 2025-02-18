@@ -21,15 +21,15 @@ This project involves data exploration, preprocessing, feature engineering, mode
 
 **Tools and Libraries:**
 
-Python
+- Python
 
-Pandas, NumPy (Data manipulation)
+- Pandas, NumPy (Data manipulation)
 
-Matplotlib, Seaborn (Data visualization)
+- Matplotlib, Seaborn (Data visualization)
 
-Scikit-learn (Machine learning models)
+- Scikit-learn (Machine learning models)
 
-Jupyter Notebook (Interactive analysis)
+- Jupyter Notebook (Interactive analysis)
 
 **Methodology:**
 
